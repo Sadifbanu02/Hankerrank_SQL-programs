@@ -4,7 +4,7 @@ This repository contains my **SQL solutions** to problems from *[HackerRank](htt
 It covers a wide range of SQL topics, from basic queries to advanced concepts.
 
 * * *
-
+              
 ## 📂 Repository Structure
 
 Each file contains the solution for a single SQL problem.
