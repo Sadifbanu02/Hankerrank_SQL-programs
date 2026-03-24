@@ -12,7 +12,7 @@ The problems are grouped by category for easy navigation.
 
 Example:
                
-/Basic Select  
+/Basic Select     
 ├── Select_All.sql  
 ├── Select_By_ID.sql  
 
