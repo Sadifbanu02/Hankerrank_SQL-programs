@@ -10,7 +10,7 @@ It covers a wide range of SQL topics, from basic queries to advanced concepts.
 Each file contains the solution for a single SQL problem    
 The problems are grouped by category for easy navigation.                                          
             
-Example:       
+Example:                 
                
 /Basic Select             
 ├── Select_All.sql  
