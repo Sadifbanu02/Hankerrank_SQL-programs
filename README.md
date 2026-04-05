@@ -16,7 +16,7 @@ Example:
 ├── Select_All.sql                
 ├── Select_By_ID.sql  
 
-/Aggregations  
+/Aggregations                  
 ├── Average_Population.sql  
 ├── Population_Census.sql  
 
