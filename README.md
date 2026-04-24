@@ -11,7 +11,7 @@ Each file contains the solution for a single SQL problem
 The problems are grouped by category for easy navigation.                                   
                                                        
 Example:                        
-               
+                             
 /Basic Select                                 
 ├── Select_All.sql                      
 ├── Select_By_ID.sql  
